@@ -1,8 +1,8 @@
-# DreamLister
+# Estacionamento
 
-An iOS application where you create a list of items you wish to have one day. You have the ability to upload item information like an image, title, price, description, and store to your dream list.
+Um sistema de Estacionamento onde você fornece o modelo do carro e a placa, e ao adicionar ele te fornece a data e o horario em que o carro chegou, e para excluir o carro quando ele sair do estacionamento basta clicar no botão saída.
 
-# What I Learned
+# O que eu aprendi
 
-* Core Data (Entities, Attributes, Relationships)
-* Fetch & display images and information using NSFetchedResultsController
+* Desing Responsivo (Bootstrap)
+* Interação das funções JavaScript com HTML (jQuery)
